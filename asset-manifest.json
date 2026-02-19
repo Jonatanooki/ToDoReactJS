@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jonatanooki/ToDoReactJS/static/css/main.e87f9a32.css",
+    "main.js": "/Jonatanooki/ToDoReactJS/static/js/main.d6c55a75.js",
+    "index.html": "/Jonatanooki/ToDoReactJS/index.html",
+    "static/media/delete.svg": "/Jonatanooki/ToDoReactJS/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/Jonatanooki/ToDoReactJS/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.e87f9a32.css.map": "/Jonatanooki/ToDoReactJS/static/css/main.e87f9a32.css.map",
+    "main.d6c55a75.js.map": "/Jonatanooki/ToDoReactJS/static/js/main.d6c55a75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87f9a32.css",
+    "static/js/main.d6c55a75.js"
+  ]
+}
